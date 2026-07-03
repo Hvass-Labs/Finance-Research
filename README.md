@@ -1,6 +1,6 @@
-# FinanceOps
+# Finance Research
 
-[Original repository on GitHub](https://github.com/Hvass-Labs/FinanceOps)
+[Original repository on GitHub](https://github.com/Hvass-Labs/Finance-Research)
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
@@ -14,7 +14,7 @@ modified and run again.
 
 ## Quick Start
 
-This research on stock valuation has been made into a web-site that everyone can easily use. Portfolio optimization will be available later. [Give it a try!](https://SimSim.Run?refcode=github-financeops)
+This research on stock valuation has been made into a web-site that everyone can easily use. Portfolio optimization will be available later. [Give it a try!](https://SimSim.Run?refcode=github-finance-research)
 
 ## Python Package
 
@@ -33,62 +33,62 @@ and [GitHub](https://github.com/Hvass-Labs/Finance-Papers).
 - Long-Term Stock Forecasting
 ([PDF](https://ssrn.com/abstract=3750775))
 ([Video](https://www.youtube.com/watch?v=L8OtWNCQAAs))
-([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Long-Term_Stock_Forecasting.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/Paper_Long-Term_Stock_Forecasting.ipynb))
+([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/Paper_Long-Term_Stock_Forecasting.ipynb))
+([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/Paper_Long-Term_Stock_Forecasting.ipynb))
 
 - Simple Portfolio Optimization That Works!
 ([PDF](https://ssrn.com/abstract=3942552))
 ([Video](https://www.youtube.com/watch?v=5--5Ydtbu1Y))
-([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Simple_Portfolio_Optimization.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/Paper_Simple_Portfolio_Optimization.ipynb))
+([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/Paper_Simple_Portfolio_Optimization.ipynb))
+([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/Paper_Simple_Portfolio_Optimization.ipynb))
 
 - Fast Portfolio Diversification
 ([PDF](https://ssrn.com/abstract=4009041))
 ([Video](https://www.youtube.com/watch?v=5--5Ydtbu1Y))
-([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Fast_Portfolio_Diversification.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/Paper_Fast_Portfolio_Diversification.ipynb))
+([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/Paper_Fast_Portfolio_Diversification.ipynb))
+([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/Paper_Fast_Portfolio_Diversification.ipynb))
 
 - Portfolio Group Constraints
 ([PDF](https://ssrn.com/abstract=4033243))
-([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Portfolio_Group_Constraints.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/Paper_Portfolio_Group_Constraints.ipynb))
+([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/Paper_Portfolio_Group_Constraints.ipynb))
+([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/Paper_Portfolio_Group_Constraints.ipynb))
 
 - Does Volatility Harvesting Really Work?
 ([PDF](https://ssrn.com/abstract=3847692))
 ([Video](https://www.youtube.com/watch?v=t0AxhyQRRvM))
-([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/Paper_Volatility_Harvesting.ipynb))
-([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/Paper_Volatility_Harvesting.ipynb))
+([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/Paper_Volatility_Harvesting.ipynb))
+([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/Paper_Volatility_Harvesting.ipynb))
 
 
 ## Other Research
 
 The following Python Notebooks contain stand-alone research without "normal" papers.
 
-1. Basic Long-Term Stock Forecasting ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01_Forecasting_Long-Term_Stock_Returns.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01_Forecasting_Long-Term_Stock_Returns.ipynb))
+1. Basic Long-Term Stock Forecasting ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01_Forecasting_Long-Term_Stock_Returns.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01_Forecasting_Long-Term_Stock_Returns.ipynb))
 
-1-B. Better Long-Term Stock Forecasts ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01B_Better_Long-Term_Stock_Forecasts.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01B_Better_Long-Term_Stock_Forecasts.ipynb))
+1-B. Better Long-Term Stock Forecasts ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01B_Better_Long-Term_Stock_Forecasts.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01B_Better_Long-Term_Stock_Forecasts.ipynb))
 
-1-C. Theory of Long-Term Stock Forecasting ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01C_Theory_of_Long-Term_Stock_Forecasting.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01C_Theory_of_Long-Term_Stock_Forecasting.ipynb))
+1-C. Theory of Long-Term Stock Forecasting ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01C_Theory_of_Long-Term_Stock_Forecasting.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01C_Theory_of_Long-Term_Stock_Forecasting.ipynb))
 
-1-D. Testing the Stock Forecasting Model ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01D_Testing_the_Stock_Forecasting_Model.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01D_Testing_the_Stock_Forecasting_Model.ipynb))
+1-D. Testing the Stock Forecasting Model ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01D_Testing_the_Stock_Forecasting_Model.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01D_Testing_the_Stock_Forecasting_Model.ipynb))
 
-1-E. Forecasting U.S. Stock Indices ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01E_Forecasting_US_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01E_Forecasting_US_Stock_Indices.ipynb))
+1-E. Forecasting U.S. Stock Indices ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01E_Forecasting_US_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01E_Forecasting_US_Stock_Indices.ipynb))
 
-1-F. Forecasting International Stock Indices ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01F_Forecasting_Int_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01F_Forecasting_Int_Stock_Indices.ipynb))
+1-F. Forecasting International Stock Indices ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01F_Forecasting_Int_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01F_Forecasting_Int_Stock_Indices.ipynb))
 
-1-G. Forecasting House Price Index ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/01G_Forecasting_House_Price_Index.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/01G_Forecasting_House_Price_Index.ipynb))
+1-G. Forecasting House Price Index ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/01G_Forecasting_House_Price_Index.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/01G_Forecasting_House_Price_Index.ipynb))
 
-2. Comparing Stock Indices ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/02_Comparing_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/02_Comparing_Stock_Indices.ipynb))
+2. Comparing Stock Indices ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/02_Comparing_Stock_Indices.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/02_Comparing_Stock_Indices.ipynb))
 
-3. Portfolio Optimization Using Signals ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/03_Portfolio_Optimization_Using_Signals.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/03_Portfolio_Optimization_Using_Signals.ipynb))
+3. Portfolio Optimization Using Signals ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/03_Portfolio_Optimization_Using_Signals.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/03_Portfolio_Optimization_Using_Signals.ipynb))
 
-4. Multi-Objective Portfolio Optimization ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/04_Multi-Objective_Portfolio_Optimization.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/04_Multi-Objective_Portfolio_Optimization.ipynb))
+4. Multi-Objective Portfolio Optimization ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/04_Multi-Objective_Portfolio_Optimization.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/04_Multi-Objective_Portfolio_Optimization.ipynb))
 
-5. Forecasting the P/Sales Ratio ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/05_Forecasting_PSales_Ratio.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/05_Forecasting_PSales_Ratio.ipynb))
+5. Forecasting the P/Sales Ratio ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/05_Forecasting_PSales_Ratio.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/05_Forecasting_PSales_Ratio.ipynb))
 
-6. Forecasting Sales Growth ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/06_Forecasting_Sales_Growth.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/06_Forecasting_Sales_Growth.ipynb))
+6. Forecasting Sales Growth ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/06_Forecasting_Sales_Growth.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/06_Forecasting_Sales_Growth.ipynb))
 
-7. Forecasting Dividends ([Notebook](https://github.com/Hvass-Labs/FinanceOps/blob/master/07_Forecasting_Dividends.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/FinanceOps/blob/master/07_Forecasting_Dividends.ipynb))
+7. Forecasting Dividends ([Notebook](https://github.com/Hvass-Labs/Finance-Research/blob/master/07_Forecasting_Dividends.ipynb)) ([Google Colab](https://colab.research.google.com/github/Hvass-Labs/Finance-Research/blob/master/07_Forecasting_Dividends.ipynb))
 
 
 ## Videos
@@ -107,9 +107,9 @@ repository from GitHub, instead of just downloading the individual Python Notebo
 
 The easiest way to download and install this is by using git from the command-line:
 
-    git clone https://github.com/Hvass-Labs/FinanceOps.git
+    git clone https://github.com/Hvass-Labs/Finance-Research.git
 
-This creates the directory `FinanceOps` and downloads all the files to it.
+This creates the directory `Finance-Research` and downloads all the files to it.
 
 This also makes it easy to update the files, simply by executing this command inside that directory:
 
@@ -118,7 +118,7 @@ This also makes it easy to update the files, simply by executing this command in
 
 ### Zip-File
 
-You can also [download](https://github.com/Hvass-Labs/FinanceOps/archive/master.zip)
+You can also [download](https://github.com/Hvass-Labs/Finance-Research/archive/master.zip)
 the contents of the GitHub repository as a Zip-file and extract it manually.
 
 
@@ -128,17 +128,17 @@ If you want to run these tutorials on your own computer, then it is best
 to use a virtual environment when installing the required packages,
 so you can easily delete the environment again.
 
-The following command creates a virtual environment named `financeops`:
+The following command creates a virtual environment named `finres`:
 
-    virtualenv financeops
+    virtualenv finres
 
 Or you can use [Anaconda](https://www.anaconda.com/download) instead of a virtualenv:
 
-    conda create --name financeops python=3
+    conda create --name finres python=3
 
 Then you switch to the virtual environment and install the required packages:
 
-    source activate financeops
+    source activate finres
     pip install -r requirements.txt
 
 When you are done working on the project you can deactivate the virtualenv:
@@ -149,10 +149,10 @@ When you are done working on the project you can deactivate the virtualenv:
 ## How To Run
 
 Once you have installed the required Python packages in a virtual environment,
-you run the following commands from the `FinanceOps` directory to view, edit
+you run the following commands from the `Finance-Research` directory to view, edit
 and run the Notebooks:
 
-    source activate financeops
+    source activate finres
     jupyter notebook
 
 If you want to edit the other source-code then you may use the free version of
@@ -170,14 +170,14 @@ You can view the Notebook on Colab but in order to run it you need to login usin
 your Google account.
 
 Then you need to execute the following commands at the top of the Notebook,
-which clones FinanceOps to your work-directory on Colab, and installs all the
+which clones Finance-Research to your work-directory on Colab, and installs all the
 required Python packages:
 
     # Clone the repository from GitHub to Google Colab's temporary drive.
     import os
-    work_dir = "/content/FinanceOps/"
+    work_dir = "/content/Finance-Research/"
     if not os.path.exists(work_dir):
-        !git clone https://github.com/Hvass-Labs/FinanceOps.git
+        !git clone https://github.com/Hvass-Labs/Finance-Research.git
     os.chdir(work_dir)
 
     # Install the required Python packages.
@@ -211,10 +211,10 @@ using one of the other methods above.
 
 ## License (MIT)
 
-These Python Notebooks and source-code are published under the [MIT License](https://github.com/Hvass-Labs/FinanceOps/blob/master/LICENSE)
+These Python Notebooks and source-code are published under the [MIT License](https://github.com/Hvass-Labs/Finance-Research/blob/master/LICENSE)
 which allows very broad use for both academic and commercial purposes.
 
 You are very welcome to modify and use the source-code in your own project.
-Please keep a link to the [original repository](https://github.com/Hvass-Labs/FinanceOps).
+Please keep a link to the [original repository](https://github.com/Hvass-Labs/Finance-Research).
 
 The financial data is **not** covered by the MIT license and may have limitations on commercial redistribution, etc.
